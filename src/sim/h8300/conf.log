@@ -1,0 +1,81 @@
+checking build system type... x86_64-apple-darwin11.4.0
+checking host system type... x86_64-apple-darwin11.4.0
+checking target system type... x86_64-apple-darwin11.4.0
+checking for gcc... gcc
+checking for C compiler default output file name... a.out
+checking whether the C compiler works... yes
+checking whether we are cross compiling... no
+checking for suffix of executables... 
+checking for suffix of object files... o
+checking whether we are using the GNU C compiler... yes
+checking whether gcc accepts -g... yes
+checking for gcc option to accept ISO C89... none needed
+checking for a BSD-compatible install... /usr/bin/install -c
+checking for ranlib... ranlib
+checking whether NLS is requested... no
+checking how to run the C preprocessor... gcc -E
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for ANSI C header files... yes
+checking for sys/types.h... yes
+checking for sys/stat.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for memory.h... yes
+checking for strings.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for unistd.h... yes
+checking for stdlib.h... (cached) yes
+checking for string.h... (cached) yes
+checking for strings.h... (cached) yes
+checking for unistd.h... (cached) yes
+checking time.h usability... yes
+checking time.h presence... yes
+checking for time.h... yes
+checking sys/time.h usability... yes
+checking sys/time.h presence... yes
+checking for sys/time.h... yes
+checking sys/resource.h usability... yes
+checking sys/resource.h presence... yes
+checking for sys/resource.h... yes
+checking fcntl.h usability... yes
+checking fcntl.h presence... yes
+checking for fcntl.h... yes
+checking fpu_control.h usability... no
+checking fpu_control.h presence... no
+checking for fpu_control.h... no
+checking dlfcn.h usability... yes
+checking dlfcn.h presence... yes
+checking for dlfcn.h... yes
+checking errno.h usability... yes
+checking errno.h presence... yes
+checking for errno.h... yes
+checking for sys/stat.h... (cached) yes
+checking for getrusage... yes
+checking for time... yes
+checking for sigaction... yes
+checking for __setfpucw... no
+checking for bind in -lsocket... no
+checking for gethostbyname in -lnsl... no
+checking for library containing zlibVersion... -lz
+checking zlib.h usability... yes
+checking zlib.h presence... yes
+checking for zlib.h... yes
+checking return type of signal handlers... void
+checking for stdlib.h... (cached) yes
+checking for time.h... (cached) yes
+checking sys/param.h usability... yes
+checking sys/param.h presence... yes
+checking for sys/param.h... yes
+configure: creating ./config.status
+config.status: creating Makefile.sim
+config.status: creating Make-common.sim
+config.status: creating .gdbinit
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: linking tconfig.in to tconfig.h
+config.status: linking ../common/nltvals.def to targ-vals.def
+config.status: executing Makefile commands
+Merging Makefile.sim+Make-common.sim into Makefile ...
+config.status: executing stamp-h commands
